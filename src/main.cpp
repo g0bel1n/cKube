@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include </Users/g0bel1n/CLionProjects/cKube/Kube.h>
+#include "Kube.h"
 using namespace std;
 
 void solver(Kube kube){
